@@ -1,0 +1,1 @@
+# fundraising-assistant-starter
